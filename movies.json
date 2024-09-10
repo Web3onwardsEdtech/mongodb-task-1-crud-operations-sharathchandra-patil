@@ -1,0 +1,2561 @@
+[{
+  "_id": {
+    "$oid": "6597a1974ba43f841df56bc6"
+  },
+  "adult": false,
+  "backdrop_path": "/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",
+  "genre_ids": [
+    53,
+    80
+  ],
+  "id": 628704,
+  "original_language": "Korean",
+  "original_title": "미드나이트",
+  "overview": "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime.",
+  "popularity": 35.477,
+  "poster_path": "/gXaS8OuavUsEjoW7P8qKrHTGPi1.jpg",
+  "release_date": "2021-06-30",
+  "title": "Midnight",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 212,
+  "cast": [
+    {
+      "id": 1564175,
+      "cast_id": 1,
+      "credit_id": "5d707affc5ada5000f9097f6"
+    },
+    {
+      "id": 1557181,
+      "cast_id": 2,
+      "credit_id": "5d707b1677c01f457959659a"
+    },
+    {
+      "id": 2166026,
+      "cast_id": 6,
+      "credit_id": "5e496c602d93750019a8d83e"
+    },
+    {
+      "id": 1191711,
+      "cast_id": 7,
+      "credit_id": "5e496c6f35811d00194851de"
+    },
+    {
+      "id": 2214888,
+      "cast_id": 3,
+      "credit_id": "5d707b37c5ada500109099ef"
+    },
+    {
+      "id": 564847,
+      "cast_id": 19,
+      "credit_id": "614fe5bb67203d0091686ada"
+    },
+    {
+      "id": 3038411,
+      "cast_id": 20,
+      "credit_id": "615063961c635b002a0ddfb6"
+    },
+    {
+      "id": 3548595,
+      "cast_id": 22,
+      "credit_id": "627eee4d6d000c0067eb34b6"
+    },
+    {
+      "id": 3548597,
+      "cast_id": 23,
+      "credit_id": "627eee602dc9dc0066c9230d"
+    },
+    {
+      "id": 3045792,
+      "cast_id": 24,
+      "credit_id": "627eee7a387651004f0b89dc"
+    },
+    {
+      "id": 2275300,
+      "cast_id": 55,
+      "credit_id": "6437718de8d0b40077e0cf32"
+    },
+    {
+      "id": 3548604,
+      "cast_id": 27,
+      "credit_id": "627eef70fd140b0053b2b51e"
+    },
+    {
+      "id": 3548606,
+      "cast_id": 28,
+      "credit_id": "627eef80caa50813cd651447"
+    },
+    {
+      "id": 3548607,
+      "cast_id": 29,
+      "credit_id": "627eef922dc9dc009eed090b"
+    },
+    {
+      "id": 2353695,
+      "cast_id": 31,
+      "credit_id": "6382845deec5b500b13ce9dc"
+    },
+    {
+      "id": 2036027,
+      "cast_id": 32,
+      "credit_id": "63828489a410c800c8851c7f"
+    },
+    {
+      "id": 3227654,
+      "cast_id": 33,
+      "credit_id": "63828552eec5b5007e5de917"
+    },
+    {
+      "id": 1830800,
+      "cast_id": 34,
+      "credit_id": "6382856c1b157d0082444fc0"
+    },
+    {
+      "id": 1257577,
+      "cast_id": 35,
+      "credit_id": "6382858df04d01007f90433b"
+    },
+    {
+      "id": 1656480,
+      "cast_id": 36,
+      "credit_id": "638285b7a410c800791fce76"
+    },
+    {
+      "id": 1336802,
+      "cast_id": 37,
+      "credit_id": "638285dd2e06970245e64452"
+    },
+    {
+      "id": 2120094,
+      "cast_id": 38,
+      "credit_id": "6382862bfb834600b2942da9"
+    },
+    {
+      "id": 2400916,
+      "cast_id": 39,
+      "credit_id": "638286542e06970292e36306"
+    },
+    {
+      "id": 3569389,
+      "cast_id": 40,
+      "credit_id": "63828666b3316b00b9cb5977"
+    },
+    {
+      "id": 2689854,
+      "cast_id": 41,
+      "credit_id": "6382868c229ae21554277c7f"
+    },
+    {
+      "id": 1678533,
+      "cast_id": 42,
+      "credit_id": "638286a2229ae21572a88a67"
+    },
+    {
+      "id": 2752543,
+      "cast_id": 43,
+      "credit_id": "638286b72e0697023d274e75"
+    },
+    {
+      "id": 3780289,
+      "cast_id": 44,
+      "credit_id": "6382870d229ae21597d31712"
+    },
+    {
+      "id": 1879170,
+      "cast_id": 46,
+      "credit_id": "638287a8f04d01007f904386"
+    },
+    {
+      "id": 3412000,
+      "cast_id": 47,
+      "credit_id": "638287cafb834600b2942df7"
+    },
+    {
+      "id": 3742977,
+      "cast_id": 48,
+      "credit_id": "638287f31b157d00b785e8b1"
+    },
+    {
+      "id": 3979529,
+      "cast_id": 57,
+      "credit_id": "64597757ae38430155ed4375"
+    },
+    {
+      "id": 2291098,
+      "cast_id": 58,
+      "credit_id": "646d63b1d1857201802eab68"
+    },
+    {
+      "id": 4010802,
+      "cast_id": 59,
+      "credit_id": "648e78f1263462010cbbf949"
+    },
+    {
+      "id": 3888559,
+      "cast_id": 60,
+      "credit_id": "64b4742de0ca7f00e7725b74"
+    }
+  ],
+  "directors": [
+    "Kwon Oh-seung"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:58:39.276Z"
+  },
+  "genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "release_date_unix": 1625011200000,
+  "keywords": [
+    "deaf-mute",
+    "investigation",
+    "serial killer",
+    "mother daughter relationship",
+    "psychological",
+    "suspense"
+  ],
+  "production_companies": [
+    {
+      "id": 10924,
+      "logo_path": "/1zHPlgqjPzxyDc3ov3hIhnUpQJK.png",
+      "name": "Peppermint&company",
+      "origin_country": "KR"
+    },
+    {
+      "id": 11590,
+      "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+      "name": "Finecut",
+      "origin_country": "KR"
+    },
+    {
+      "id": 7036,
+      "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+      "name": "CJ Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "cast_names": [
+    "Jin Ki-joo",
+    "Wi Ha-jun",
+    "Park Hoon",
+    "Kil Hae-yeon",
+    "Kim Hye-yoon",
+    "Lee Sang-hee",
+    "Park Ji-hoon",
+    "Eun-Woo Bae",
+    "Min-woo Choi",
+    "Oh Ji-young",
+    "Jung Won-chang",
+    "Im Sung Mi",
+    "Noh Su Min",
+    "Na Eun-saem",
+    "Shin Mi-yeong",
+    "Song You-hyun",
+    "Na Yoon-sung",
+    "In-woo Kim",
+    "Kim Yoo-ri",
+    "Kim Kwang-shik",
+    "Lee Yoo-jun",
+    "Tae Won-seok",
+    "Ahn Sang-eun",
+    "Bae Eun-woo",
+    "Lee Jin-mok",
+    "Kwon Young-min",
+    "Lee Se-hee",
+    "Yun Bu-jin",
+    "Lee Seung-chul",
+    "Yang Do-hyun",
+    "Moon Seung-you",
+    "Lee Sang-eun",
+    "Jang Yong-hee",
+    "Jeon Ah-hee",
+    "Yim Seung-min"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "65965b02fcd8cc005668cba5"
+    },
+    {
+      "$oid": "6597cb474ba43f841df5925d"
+    },
+    {
+      "$oid": "659544fc31119805a8c8a08d"
+    },
+    {
+      "$oid": "65965900fcd8cc005668c947"
+    },
+    {
+      "$oid": "6595432031119805a8c89e2a"
+    },
+    {
+      "$oid": "65965ee5fcd8cc005668d031"
+    },
+    {
+      "$oid": "65955f3231119805a8c8c08c"
+    },
+    {
+      "$oid": "65955fa131119805a8c8c126"
+    },
+    {
+      "$oid": "659544c331119805a8c8a040"
+    },
+    {
+      "$oid": "6597a9564ba43f841df57589"
+    }
+  ],
+  "tags": "A serial killer ruthlessly hunts down a deaf woman through the streets of South Korea after she witnesses his brutal crime. deaf-mute investigation serial killer mother daughter relationship psychological suspense Korean Kwon Oh-seung Crime Thriller  Jin Ki-joo Wi Ha-jun"
+},
+{
+  "_id": {
+    "$oid": "6597a1944ba43f841df56bc5"
+  },
+  "adult": false,
+  "backdrop_path": "/c0izdYdnTe4uMRifHgvTA85wPz0.jpg",
+  "genre_ids": [
+    28,
+    80,
+    18,
+    27,
+    878,
+    53
+  ],
+  "id": 503736,
+  "original_language": "English",
+  "original_title": "Army of the Dead",
+  "overview": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+  "popularity": 32.102,
+  "poster_path": "/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
+  "release_date": "2021-05-14",
+  "title": "Army of the Dead",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 3708,
+  "cast": [
+    {
+      "id": 543530,
+      "cast_id": 8,
+      "credit_id": "5ca7eb4e9251415662fcd481"
+    },
+    {
+      "id": 989325,
+      "cast_id": 14,
+      "credit_id": "5ced8b850e0a26286cca95f2"
+    },
+    {
+      "id": 41556,
+      "cast_id": 26,
+      "credit_id": "5d2d48a66a300b000fa1d9eb"
+    },
+    {
+      "id": 57409,
+      "cast_id": 16,
+      "credit_id": "5ced91980e0a261bbbd24bbd"
+    },
+    {
+      "id": 51995,
+      "cast_id": 15,
+      "credit_id": "5ced9187c3a36851821fa90c"
+    },
+    {
+      "id": 16808,
+      "cast_id": 31,
+      "credit_id": "5d2d49524975600011f06a23"
+    },
+    {
+      "id": 453272,
+      "cast_id": 30,
+      "credit_id": "5d2d493b6a300b000fa1dcff"
+    },
+    {
+      "id": 9195,
+      "cast_id": 22,
+      "credit_id": "5d15311c5cd16e00273954ef"
+    },
+    {
+      "id": 39520,
+      "cast_id": 28,
+      "credit_id": "5d2d49046a300b000fa1dc09"
+    },
+    {
+      "id": 220088,
+      "cast_id": 59,
+      "credit_id": "5f36f10b11c066003536b5b5"
+    },
+    {
+      "id": 557579,
+      "cast_id": 29,
+      "credit_id": "5d2d49236a300b0010a1db22"
+    },
+    {
+      "id": 1108805,
+      "cast_id": 17,
+      "credit_id": "5ced91aa92514110dbb9d5c7"
+    },
+    {
+      "id": 1272968,
+      "cast_id": 36,
+      "credit_id": "5d35a03e2f8d097db9d4c985"
+    },
+    {
+      "id": 12371,
+      "cast_id": 33,
+      "credit_id": "5d2d4990caab6d164096ae55"
+    },
+    {
+      "id": 56556,
+      "cast_id": 37,
+      "credit_id": "5e80bf10ce5d820017ea463c"
+    },
+    {
+      "id": 1452636,
+      "cast_id": 70,
+      "credit_id": "60a7e53b6ee3d700407efa72"
+    },
+    {
+      "id": 932696,
+      "cast_id": 71,
+      "credit_id": "60a7e563501cf200592ff181"
+    },
+    {
+      "id": 1262227,
+      "cast_id": 72,
+      "credit_id": "60a7e592c6006d002a71baaf"
+    },
+    {
+      "id": 1552521,
+      "cast_id": 73,
+      "credit_id": "60a7e66e4b0c6300415fa001"
+    },
+    {
+      "id": 3098494,
+      "cast_id": 74,
+      "credit_id": "60a7e67f9a64c1002965cc4f"
+    },
+    {
+      "id": 2456540,
+      "cast_id": 75,
+      "credit_id": "60a7e6af142ef10027860462"
+    },
+    {
+      "id": 1829026,
+      "cast_id": 107,
+      "credit_id": "60aaca9985b1050079819ad0"
+    },
+    {
+      "id": 2047762,
+      "cast_id": 108,
+      "credit_id": "60aacab087a27a0058c96054"
+    },
+    {
+      "id": 2057498,
+      "cast_id": 76,
+      "credit_id": "60a803887f4f21004115b2df"
+    },
+    {
+      "id": 3101104,
+      "cast_id": 88,
+      "credit_id": "60aac5bd965220002952fe90"
+    },
+    {
+      "id": 3101102,
+      "cast_id": 87,
+      "credit_id": "60aac5a966e469005ab33b29"
+    },
+    {
+      "id": 2237346,
+      "cast_id": 77,
+      "credit_id": "60a803a3bbd0b0005983d40f"
+    },
+    {
+      "id": 96753,
+      "cast_id": 78,
+      "credit_id": "60a803bd9a64c1006e259584"
+    },
+    {
+      "id": 1583701,
+      "cast_id": 79,
+      "credit_id": "60a803cd501cf20059301a80"
+    },
+    {
+      "id": 2794433,
+      "cast_id": 89,
+      "credit_id": "60aac5db66e469007b3f9b4c"
+    },
+    {
+      "id": 3101106,
+      "cast_id": 90,
+      "credit_id": "60aac5fdb0ba7e003fd949f2"
+    },
+    {
+      "id": 3101108,
+      "cast_id": 91,
+      "credit_id": "60aac619957e6d007933a80b"
+    },
+    {
+      "id": 2707659,
+      "cast_id": 92,
+      "credit_id": "60aac63dc995ee003f863741"
+    },
+    {
+      "id": 1226495,
+      "cast_id": 93,
+      "credit_id": "60aac6547f2d4a007d006d8f"
+    },
+    {
+      "id": 1404646,
+      "cast_id": 94,
+      "credit_id": "60aac66887a27a0040f57c5f"
+    },
+    {
+      "id": 3101111,
+      "cast_id": 95,
+      "credit_id": "60aac67eede1b00040e73958"
+    },
+    {
+      "id": 1230070,
+      "cast_id": 96,
+      "credit_id": "60aac69287a27a0029ebbfe9"
+    },
+    {
+      "id": 2422720,
+      "cast_id": 80,
+      "credit_id": "60a8043185b10500797daabc"
+    },
+    {
+      "id": 3101113,
+      "cast_id": 97,
+      "credit_id": "60aac6e1d8cc4a0029d407d4"
+    },
+    {
+      "id": 3101114,
+      "cast_id": 98,
+      "credit_id": "60aac6f42dda890058f8bda1"
+    },
+    {
+      "id": 1743025,
+      "cast_id": 81,
+      "credit_id": "60a8045c7f4f210059ae2488"
+    },
+    {
+      "id": 2101422,
+      "cast_id": 82,
+      "credit_id": "60a8047cd8cc4a007791248c"
+    },
+    {
+      "id": 3101116,
+      "cast_id": 99,
+      "credit_id": "60aac71f965220003fbebd7d"
+    },
+    {
+      "id": 2749127,
+      "cast_id": 83,
+      "credit_id": "60a80496681888004000b5f9"
+    },
+    {
+      "id": 1488519,
+      "cast_id": 84,
+      "credit_id": "60a804b24b0c6300579883b3"
+    },
+    {
+      "id": 1301633,
+      "cast_id": 100,
+      "credit_id": "60aac75d87a27a0078cf8aeb"
+    },
+    {
+      "id": 2978029,
+      "cast_id": 101,
+      "credit_id": "60aac789976a230029e8e16e"
+    },
+    {
+      "id": 1151637,
+      "cast_id": 102,
+      "credit_id": "60aac79bb0ba7e006dba2b80"
+    },
+    {
+      "id": 2537898,
+      "cast_id": 69,
+      "credit_id": "608dd03cc439c0003f191e83"
+    },
+    {
+      "id": 1334323,
+      "cast_id": 68,
+      "credit_id": "608dcfe92588234e03b3f9e7"
+    },
+    {
+      "id": 1531921,
+      "cast_id": 103,
+      "credit_id": "60aac7bf87a27a0029ebc15f"
+    },
+    {
+      "id": 3101120,
+      "cast_id": 104,
+      "credit_id": "60aac7d6c995ee006d05a081"
+    },
+    {
+      "id": 1658320,
+      "cast_id": 105,
+      "credit_id": "60aac7e95258ae00295fccf8"
+    },
+    {
+      "id": 1260554,
+      "cast_id": 106,
+      "credit_id": "60aac8042dda89006ebade6e"
+    },
+    {
+      "id": 60279,
+      "cast_id": 86,
+      "credit_id": "60a8f6437f4f21004116c312"
+    },
+    {
+      "id": 2247561,
+      "cast_id": 187,
+      "credit_id": "623e2850b3316b0085dcab59"
+    },
+    {
+      "id": 2567645,
+      "cast_id": 188,
+      "credit_id": "638e2ee7d75bd600de0332c4"
+    }
+  ],
+  "directors": [
+    "Zack Snyder"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:58:36.907Z"
+  },
+  "genre": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "release_date_unix": 1620950400000,
+  "keywords": [
+    "casino",
+    "tiger",
+    "vault",
+    "mercenary",
+    "safe",
+    "heist",
+    "zombie animals",
+    "apocalypse",
+    "zombie",
+    "las vegas",
+    "widower",
+    "safecracker",
+    "booby trap",
+    "casino owner",
+    "walled city",
+    "zombie apocalypse",
+    "father daughter conflict",
+    "father daughter relationship",
+    "casino heist"
+  ],
+  "production_companies": [
+    {
+      "id": 114152,
+      "logo_path": null,
+      "name": "The Stone Quarry",
+      "origin_country": "US"
+    }
+  ],
+  "cast_names": [
+    "Dave Bautista",
+    "Ella Purnell",
+    "Omari Hardwick",
+    "Ana de la Reguera",
+    "Theo Rossi",
+    "Matthias Schweighöfer",
+    "Nora Arnezeder",
+    "Hiroyuki Sanada",
+    "Garret Dillahunt",
+    "Tig Notaro",
+    "Raúl Castillo",
+    "Huma Qureshi",
+    "Samantha Win",
+    "Richard Cetrone",
+    "Michael Cassidy",
+    "Steve Corona",
+    "Chelsea Edmundson",
+    "Zach Rose",
+    "Brian Avery",
+    "David K. Maiocco",
+    "Ryan Watson",
+    "Sabine Varnes",
+    "Monica Lopez Aleman",
+    "Kelly Phelan",
+    "Leon Budrow",
+    "Jim Halty",
+    "Maeve Garay",
+    "Danielle Burgio",
+    "Jessica Harbeck",
+    "Joshua Caleb Horton",
+    "Natalie Marie Jaramillo",
+    "Frank Andrade",
+    "Ava Wagenman",
+    "Wayne Dalglish",
+    "Casey Messer",
+    "Ken Thong",
+    "Donna Brazile",
+    "Sean Spicer",
+    "Sheila Awasthi",
+    "Sebastian Balchand",
+    "Colby Lemmo",
+    "Marisilda Garcia",
+    "Isachar Benitez",
+    "Carolyn Wickwire",
+    "Antonio Leyba",
+    "Colin Jones",
+    "Daisy Davis",
+    "Lora Martinez-Cunningham",
+    "Athena Perample",
+    "Albert Valladares",
+    "Alexander Ward",
+    "Steve Soliz",
+    "Jordyn Aurora Aquino",
+    "Sarah Minnich",
+    "Fred Tatasciore",
+    "Gordon Tarpley",
+    "Alexander Alayon Jr."
+  ],
+  "similar_movies": [
+    {
+      "$oid": "65961daa946129dffb785f33"
+    },
+    {
+      "$oid": "65979e2568b44664766010d5"
+    },
+    {
+      "$oid": "6595583c31119805a8c8b70c"
+    },
+    {
+      "$oid": "65965b38fcd8cc005668cbe8"
+    },
+    {
+      "$oid": "65967c4afcd8cc005668e6d9"
+    },
+    {
+      "$oid": "6597a2ba4ba43f841df56d2b"
+    },
+    {
+      "$oid": "659620cb946129dffb786291"
+    },
+    {
+      "$oid": "6596543ffcd8cc005668c349"
+    },
+    {
+      "$oid": "6597badd4ba43f841df584be"
+    },
+    {
+      "$oid": "65955a1131119805a8c8b984"
+    }
+  ],
+  "tags": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted. casino tiger vault mercenary safe heist zombie animals apocalypse zombie las vegas widower safecracker booby trap casino owner walled city zombie apocalypse father daughter conflict father daughter relationship casino heist English Zack Snyder Action Crime  Dave Bautista Ella Purnell"
+},
+{
+  "_id": {
+    "$oid": "6597a19c4ba43f841df56bc8"
+  },
+  "adult": false,
+  "backdrop_path": "/vkjsoMF86dJIv6Sgtd4CcuR8kzh.jpg",
+  "genre_ids": [
+    16,
+    14
+  ],
+  "id": 843241,
+  "original_language": "Japanese",
+  "original_title": "劇場版 七つの大罪 光に呪われし者たち",
+  "overview": "With the help of the \"Dragon Sin of Wrath\" Meliodas and the worst rebels in history, the Seven Deadly Sins, the \"Holy War\", in which four races, including Humans, Goddesses, Fairies and Giants fought against the Demons, is finally over. At the cost of the \"Lion Sin of Pride\" Escanor's life, the Demon King was defeated and the world regained peace. After that, each of the Sins take their own path.",
+  "popularity": 27.414,
+  "poster_path": "/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg",
+  "release_date": "2021-07-02",
+  "title": "The Seven Deadly Sins: Cursed by Light",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 449,
+  "cast": [
+    {
+      "id": 149894,
+      "cast_id": 3,
+      "credit_id": "6102d2498d1b8e002a6901a3"
+    },
+    {
+      "id": 1325034,
+      "cast_id": 4,
+      "credit_id": "6102d25aa217c00029da3ba3"
+    },
+    {
+      "id": 151182,
+      "cast_id": 5,
+      "credit_id": "6102d2674f33ad002d8c4957"
+    },
+    {
+      "id": 936275,
+      "cast_id": 6,
+      "credit_id": "6102d2776517d6002914d47d"
+    },
+    {
+      "id": 1154452,
+      "cast_id": 7,
+      "credit_id": "6102d283a217c00046c2bb1e"
+    },
+    {
+      "id": 131563,
+      "cast_id": 8,
+      "credit_id": "6102d2937d5f4b0046ae21f9"
+    },
+    {
+      "id": 2271837,
+      "cast_id": 9,
+      "credit_id": "6102d29ef706de0026beedc9"
+    },
+    {
+      "id": 9711,
+      "cast_id": 10,
+      "credit_id": "6102d2ac22931a004515b173"
+    },
+    {
+      "id": 144655,
+      "cast_id": 11,
+      "credit_id": "6102d2bc7d5f4b007432a890"
+    },
+    {
+      "id": 1221114,
+      "cast_id": 13,
+      "credit_id": "6102d3b6db72c0005d8dffdc"
+    },
+    {
+      "id": 2748780,
+      "cast_id": 14,
+      "credit_id": "6102d3c47d5f4b002d9f315d"
+    },
+    {
+      "id": 227089,
+      "cast_id": 15,
+      "credit_id": "6102d3d56517d6007ea3a0c2"
+    }
+  ],
+  "directors": [
+    "Takayuki Hamana"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:58:44.473Z"
+  },
+  "genre": [
+    "Animation",
+    "Fantasy"
+  ],
+  "release_date_unix": 1625184000000,
+  "keywords": [
+    "magic",
+    "sequel",
+    "anime"
+  ],
+  "production_companies": [
+    {
+      "id": 6075,
+      "logo_path": "/vlfJrLVL1TeNrCeeLBAwJXNv65M.png",
+      "name": "Studio Deen",
+      "origin_country": "JP"
+    }
+  ],
+  "cast_names": [
+    "Yuki Kaji",
+    "Sora Amamiya",
+    "Misaki Kuno",
+    "Aoi Yuki",
+    "Tatsuhisa Suzuki",
+    "Jun Fukuyama",
+    "Yuuhei Takagi",
+    "Maaya Sakamoto",
+    "Tomokazu Sugita",
+    "Yuichi Nakamura",
+    "Shinichiro Kamio",
+    "Kana Kurashina"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "65961e83946129dffb786024"
+    },
+    {
+      "$oid": "6595499b31119805a8c8a642"
+    },
+    {
+      "$oid": "6595555a31119805a8c8b31c"
+    },
+    {
+      "$oid": "6597b7df4ba43f841df58109"
+    },
+    {
+      "$oid": "6597b69b4ba43f841df57f71"
+    },
+    {
+      "$oid": "65954a7f31119805a8c8a738"
+    },
+    {
+      "$oid": "65954b8031119805a8c8a82d"
+    },
+    {
+      "$oid": "6595574c31119805a8c8b5d1"
+    },
+    {
+      "$oid": "6597b2a94ba43f841df57b12"
+    },
+    {
+      "$oid": "659551c431119805a8c8aeba"
+    }
+  ],
+  "tags": "With the help of the \"Dragon Sin of Wrath\" Meliodas and the worst rebels in history, the Seven Deadly Sins, the \"Holy War\", in which four races, including Humans, Goddesses, Fairies and Giants fought against the Demons, is finally over. At the cost of the \"Lion Sin of Pride\" Escanor's life, the Demon King was defeated and the world regained peace. After that, each of the Sins take their own path. magic sequel anime Japanese Takayuki Hamana Animation Fantasy  Yuki Kaji Sora Amamiya"
+},
+{
+  "_id": {
+    "$oid": "6597a1a34ba43f841df56bcc"
+  },
+  "adult": false,
+  "backdrop_path": "/oisfyausZuNUeKOafx8nxaSdIuB.jpg",
+  "genre_ids": [
+    27,
+    53,
+    28
+  ],
+  "id": 760883,
+  "original_language": "German",
+  "original_title": "Blood Red Sky",
+  "overview": "A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.",
+  "popularity": 32.77,
+  "poster_path": "/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg",
+  "release_date": "2021-07-23",
+  "title": "Blood Red Sky",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 1414,
+  "cast": [
+    {
+      "id": 1058633,
+      "cast_id": 4,
+      "credit_id": "5fa3e6c443cd54003d74b7dc"
+    },
+    {
+      "id": 2844329,
+      "cast_id": 5,
+      "credit_id": "5fa3e6d3880c920041e3c843"
+    },
+    {
+      "id": 45540,
+      "cast_id": 6,
+      "credit_id": "5fa3e6ec34e1520042731638"
+    },
+    {
+      "id": 16811,
+      "cast_id": 18,
+      "credit_id": "5fcc8db3813831004080dddf"
+    },
+    {
+      "id": 10862,
+      "cast_id": 31,
+      "credit_id": "60fb9ee8f29d6600749a170a"
+    },
+    {
+      "id": 95047,
+      "cast_id": 32,
+      "credit_id": "60fc05abe24b93005f9fc1a3"
+    },
+    {
+      "id": 141876,
+      "cast_id": 16,
+      "credit_id": "5fa3e83f519bbb003f4d969a"
+    },
+    {
+      "id": 1285754,
+      "cast_id": 17,
+      "credit_id": "5fcc8d9f3f7e1d0042e5935d"
+    },
+    {
+      "id": 2025506,
+      "cast_id": 9,
+      "credit_id": "5fa3e7911b7294003e8d4e01"
+    },
+    {
+      "id": 36323,
+      "cast_id": 8,
+      "credit_id": "5fa3e7735aadc4003e7ee53f"
+    },
+    {
+      "id": 1184679,
+      "cast_id": 10,
+      "credit_id": "5fa3e7a1880c92003fe386dd"
+    },
+    {
+      "id": 1309014,
+      "cast_id": 13,
+      "credit_id": "5fa3e7d0c68b69003f9e46d3"
+    },
+    {
+      "id": 49742,
+      "cast_id": 14,
+      "credit_id": "5fa3e7e25aadc400417ed3de"
+    },
+    {
+      "id": 2844330,
+      "cast_id": 7,
+      "credit_id": "5fa3e75f34e1520042731649"
+    },
+    {
+      "id": 1151508,
+      "cast_id": 11,
+      "credit_id": "5fa3e7af323eba004020ad53"
+    },
+    {
+      "id": 54903,
+      "cast_id": 12,
+      "credit_id": "5fa3e7bc43cd54003e75070f"
+    },
+    {
+      "id": 2844331,
+      "cast_id": 15,
+      "credit_id": "5fa3e82643cd5400407506c1"
+    },
+    {
+      "id": 147349,
+      "cast_id": 33,
+      "credit_id": "60fc619ff29d660046aab901"
+    },
+    {
+      "id": 2473647,
+      "cast_id": 34,
+      "credit_id": "60fc624e0fb398004531de4f"
+    },
+    {
+      "id": 46992,
+      "cast_id": 35,
+      "credit_id": "60fc62bb99d5c300259c96a0"
+    },
+    {
+      "id": 3170603,
+      "cast_id": 36,
+      "credit_id": "60fc62fc17792c005dba39bf"
+    },
+    {
+      "id": 1945718,
+      "cast_id": 37,
+      "credit_id": "60fc640117792c007304cb20"
+    },
+    {
+      "id": 2948718,
+      "cast_id": 38,
+      "credit_id": "60ffff88e24b93002e42532b"
+    },
+    {
+      "id": 2241007,
+      "cast_id": 44,
+      "credit_id": "61ef376ed11e0e00f230089e"
+    },
+    {
+      "id": 2025506,
+      "cast_id": 45,
+      "credit_id": "63c0355623be4600d96025cc"
+    }
+  ],
+  "directors": [
+    "Peter Thorwarth"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:58:51.413Z"
+  },
+  "genre": [
+    "Action",
+    "Horror",
+    "Thriller"
+  ],
+  "release_date_unix": 1626998400000,
+  "keywords": [
+    "germany",
+    "vampire",
+    "flashback",
+    "murder",
+    "airplane hijacking",
+    "dead dog",
+    "terrorist attack",
+    "told in flashback",
+    "barking dog",
+    "blood sucking",
+    "flight attendant",
+    "shooting dog",
+    "mother son relationship",
+    "plane",
+    "hijacked flight"
+  ],
+  "production_companies": [
+    {
+      "id": 5754,
+      "logo_path": "/lYPqogOigbGMmErpSBBn2SnVypQ.png",
+      "name": "Rat Pack Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 146397,
+      "logo_path": null,
+      "name": "Sirena Film",
+      "origin_country": ""
+    }
+  ],
+  "cast_names": [
+    "Peri Baumeister",
+    "Carl Anton Koch",
+    "Kais Setti",
+    "Alexander Scheer",
+    "Dominic Purcell",
+    "Graham McTavish",
+    "Roland Møller",
+    "Chidi Ajufo",
+    "Rebecca Dyson-Smith",
+    "Leonie Brill",
+    "Nele Kiper",
+    "Rainer Reiners",
+    "Ilona Schulz",
+    "Nader Ben-Abdallah",
+    "Jacqueline Macaulay",
+    "Wolfgang Michael",
+    "Petra Michelle Nérette",
+    "David Hürten",
+    "Florian Schmidtke",
+    "Adriana Altaras",
+    "Valérie Vachkova",
+    "William Young",
+    "Rutger Lysen",
+    "Jamie Marshall",
+    "Rebecca Dyson-Smith"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "6595440231119805a8c89f4c"
+    },
+    {
+      "$oid": "65965396fcd8cc005668c26f"
+    },
+    {
+      "$oid": "65965fcdfcd8cc005668d142"
+    },
+    {
+      "$oid": "659679cffcd8cc005668e39e"
+    },
+    {
+      "$oid": "65966abbfcd8cc005668dcc5"
+    },
+    {
+      "$oid": "6597a5154ba43f841df57017"
+    },
+    {
+      "$oid": "6597a3244ba43f841df56db2"
+    },
+    {
+      "$oid": "65965677fcd8cc005668c62c"
+    },
+    {
+      "$oid": "65962009946129dffb7861c8"
+    },
+    {
+      "$oid": "65955c7f31119805a8c8bcd5"
+    }
+  ],
+  "tags": "A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide. germany vampire flashback murder airplane hijacking dead dog terrorist attack told in flashback barking dog blood sucking flight attendant shooting dog mother son relationship plane hijacked flight German Peter Thorwarth Action Horror  Peri Baumeister Carl Anton Koch"
+},
+{
+  "_id": {
+    "$oid": "6597a1a44ba43f841df56bcd"
+  },
+  "adult": false,
+  "backdrop_path": "/uoL0YsiGGvHlb4frxXKLzu8sXdI.jpg",
+  "genre_ids": [
+    18,
+    14,
+    27
+  ],
+  "id": 788929,
+  "original_language": "Icelandic",
+  "original_title": "Dýrið",
+  "overview": "An Icelandic couple live with their herd of sheep on a beautiful but remote farm. When they discover a mysterious newborn on their land, they decide to keep it and raise it as their own. This unexpected development and the prospects of a new family brings them much joy before ultimately destroying them.",
+  "popularity": 27.633,
+  "poster_path": "/gP9yviboTGWGolqUZKIB1UkF1C2.jpg",
+  "release_date": "2021-08-12",
+  "title": "Lamb",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 743,
+  "cast": [
+    {
+      "id": 87722,
+      "cast_id": 2,
+      "credit_id": "600a90d9dd83fa003d8f5e32"
+    },
+    {
+      "id": 52913,
+      "cast_id": 3,
+      "credit_id": "600a90e13520e8004a673c6b"
+    },
+    {
+      "id": 42668,
+      "cast_id": 4,
+      "credit_id": "600a90e9d55c3d003e6dc7f1"
+    },
+    {
+      "id": 55584,
+      "cast_id": 5,
+      "credit_id": "60c1141a8eda87005646a635"
+    },
+    {
+      "id": 3154166,
+      "cast_id": 9,
+      "credit_id": "60eb38fd42d8a5005e3b4c55"
+    },
+    {
+      "id": 3350165,
+      "cast_id": 43,
+      "credit_id": "61bc6e9a945d36006291475d"
+    },
+    {
+      "id": 3350166,
+      "cast_id": 44,
+      "credit_id": "61bc6eebd14443004142391b"
+    },
+    {
+      "id": 1990739,
+      "cast_id": 45,
+      "credit_id": "61bc6f4a894ed6005e9eba38"
+    },
+    {
+      "id": 3502569,
+      "cast_id": 47,
+      "credit_id": "6254309fa0b6b51c589feadd"
+    },
+    {
+      "id": 3502570,
+      "cast_id": 48,
+      "credit_id": "625430ad3f8ede0051eb6087"
+    }
+  ],
+  "directors": [
+    "Valdimar Jóhannsson"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:58:52.780Z"
+  },
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "release_date_unix": 1628726400000,
+  "keywords": [
+    "musician",
+    "brother",
+    "mountain",
+    "iceland",
+    "grief",
+    "parenthood",
+    "birth",
+    "couple",
+    "mental illness",
+    "sheep farm",
+    "remote location",
+    "folk tale"
+  ],
+  "production_companies": [
+    {
+      "id": 110059,
+      "logo_path": null,
+      "name": "Black Spark Film & TV",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 157143,
+      "logo_path": null,
+      "name": "Go to Sheep",
+      "origin_country": ""
+    },
+    {
+      "id": 86773,
+      "logo_path": "/lbjAsmIuOcIEFJG2WRSz1NUAXvi.png",
+      "name": "Madants",
+      "origin_country": "PL"
+    },
+    {
+      "id": 162500,
+      "logo_path": "/onZtHqDNrJJl4QoEmMvakzCqJcS.png",
+      "name": "Rabbit Hole Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 94865,
+      "logo_path": null,
+      "name": "Chimney Poland",
+      "origin_country": "PL"
+    },
+    {
+      "id": 3555,
+      "logo_path": "/5vgxuOmB1UX3t6tPv6TChQCbyXf.png",
+      "name": "Chimney Sweden",
+      "origin_country": "SE"
+    }
+  ],
+  "cast_names": [
+    "Noomi Rapace",
+    "Hilmir Snær Guðnason",
+    "Björn Hlynur Haraldsson",
+    "Ingvar E. Sigurðsson",
+    "Ester Bibi",
+    "Sigurður Elvar Viðarson",
+    "Theodór Ingi Ólafsson",
+    "Arnþruður Dögg Sigurðardóttir",
+    "Gunnar Þor Karlsson",
+    "Lára Björk Hall"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "65961e6f946129dffb78600d"
+    },
+    {
+      "$oid": "6597c74e4ba43f841df58d51"
+    },
+    {
+      "$oid": "659556d031119805a8c8b524"
+    },
+    {
+      "$oid": "6595617731119805a8c8c3a9"
+    },
+    {
+      "$oid": "6597a1cc4ba43f841df56bfb"
+    },
+    {
+      "$oid": "659558f931119805a8c8b805"
+    },
+    {
+      "$oid": "65954d1e31119805a8c8a9c0"
+    },
+    {
+      "$oid": "6597b7e14ba43f841df5810b"
+    },
+    {
+      "$oid": "6597aa1b4ba43f841df57683"
+    },
+    {
+      "$oid": "6597b49c4ba43f841df57d0f"
+    }
+  ],
+  "tags": "An Icelandic couple live with their herd of sheep on a beautiful but remote farm. When they discover a mysterious newborn on their land, they decide to keep it and raise it as their own. This unexpected development and the prospects of a new family brings them much joy before ultimately destroying them. musician brother mountain iceland grief parenthood birth couple mental illness sheep farm remote location folk tale Icelandic Valdimar Jóhannsson Drama Fantasy  Noomi Rapace Hilmir Snær Guðnason"
+},
+{
+  "_id": {
+    "$oid": "6597a1a84ba43f841df56bd0"
+  },
+  "adult": false,
+  "backdrop_path": null,
+  "genre_ids": [
+    18
+  ],
+  "id": 820228,
+  "original_language": "Spanish",
+  "original_title": "Eva",
+  "overview": "Eva, a young woman, discovers she is pregnant and decides to have an abortion. With her partner against her, she feels it's the best thing to do and will soon discover that the decision was easier to take than to face. Nevertheless, she knows she made the right thing, even if it sometimes haunts her.",
+  "popularity": 1.194,
+  "poster_path": "/6aIQPjlSKC2yUnKCA4n6U4eZP3g.jpg",
+  "release_date": "2021-01-01",
+  "title": "Eva",
+  "video": false,
+  "vote_average": 0,
+  "vote_count": 0,
+  "cast": [
+    {
+      "id": 3058431,
+      "cast_id": 9,
+      "credit_id": "607c8b0e1b1f3c006eb16f8b"
+    },
+    {
+      "id": 1064400,
+      "cast_id": 10,
+      "credit_id": "607c8b18e6d3cc00401a281a"
+    },
+    {
+      "id": 2656821,
+      "cast_id": 11,
+      "credit_id": "607c8b25c390c5002a3320a4"
+    },
+    {
+      "id": 3058432,
+      "cast_id": 12,
+      "credit_id": "607c8b32e6d3cc00401a282e"
+    },
+    {
+      "id": 3058433,
+      "cast_id": 13,
+      "credit_id": "607c8b52c2823a0076a7f3cc"
+    }
+  ],
+  "directors": [
+    "Margalida Adrover"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T14:39:26.895Z"
+  },
+  "genre": [
+    "Drama"
+  ],
+  "release_date_unix": 1609459200000,
+  "keywords": [],
+  "production_companies": [
+    {
+      "id": 100590,
+      "logo_path": null,
+      "name": "Escuela TAI",
+      "origin_country": "ES"
+    }
+  ],
+  "cast_names": [
+    "Rocío Agost",
+    "Isabel Ampudia",
+    "Patu Fernández",
+    "Montse Peiro",
+    "Carlos Salgado"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "6597b6f24ba43f841df57fde"
+    },
+    {
+      "$oid": "65955a4431119805a8c8b9ca"
+    },
+    {
+      "$oid": "659656c5fcd8cc005668c693"
+    },
+    {
+      "$oid": "6597a33b4ba43f841df56dce"
+    },
+    {
+      "$oid": "65955e9031119805a8c8bfad"
+    },
+    {
+      "$oid": "65966447fcd8cc005668d5f0"
+    },
+    {
+      "$oid": "6597c7764ba43f841df58d86"
+    },
+    {
+      "$oid": "65961ff9946129dffb7861b6"
+    },
+    {
+      "$oid": "65955d4531119805a8c8bde5"
+    },
+    {
+      "$oid": "65967c92fcd8cc005668e738"
+    }
+  ],
+  "tags": "Eva, a young woman, discovers she is pregnant and decides to have an abortion. With her partner against her, she feels it's the best thing to do and will soon discover that the decision was easier to take than to face. Nevertheless, she knows she made the right thing, even if it sometimes haunts her.  Spanish Margalida Adrover Drama  Rocío Agost Isabel Ampudia"
+},
+{
+  "_id": {
+    "$oid": "6597a1ac4ba43f841df56bd2"
+  },
+  "adult": false,
+  "backdrop_path": "/brOCMGntRbx9SKzeQk1Aisu6vXz.jpg",
+  "genre_ids": [
+    9648,
+    53,
+    27
+  ],
+  "id": 576845,
+  "original_language": "English",
+  "original_title": "Last Night in Soho",
+  "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+  "popularity": 39.596,
+  "poster_path": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+  "release_date": "2021-10-21",
+  "title": "Last Night in Soho",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 2970,
+  "cast": [
+    {
+      "id": 1356758,
+      "cast_id": 5,
+      "credit_id": "5c6f22cac3a3683fb6cb66af"
+    },
+    {
+      "id": 1397778,
+      "cast_id": 4,
+      "credit_id": "5c49cae00e0a264962cf1a65"
+    },
+    {
+      "id": 136532,
+      "cast_id": 6,
+      "credit_id": "5c6f40da0e0a26239cd36c98"
+    },
+    {
+      "id": 47754,
+      "cast_id": 26,
+      "credit_id": "5d83dc28a284eb023aeb3c04"
+    },
+    {
+      "id": 1672687,
+      "cast_id": 32,
+      "credit_id": "5d83dc9796386402223529ee"
+    },
+    {
+      "id": 1770527,
+      "cast_id": 21,
+      "credit_id": "5cf3e262c3a36818da1f9894"
+    },
+    {
+      "id": 69465,
+      "cast_id": 141,
+      "credit_id": "617c2fe45294e70065135b39"
+    },
+    {
+      "id": 28641,
+      "cast_id": 24,
+      "credit_id": "5d1241749251413ffbbb42b9"
+    },
+    {
+      "id": 10168,
+      "cast_id": 25,
+      "credit_id": "5d12417c0e0a26597dccc1b9"
+    },
+    {
+      "id": 3289470,
+      "cast_id": 140,
+      "credit_id": "617c2f95d388ae0043ec485b"
+    },
+    {
+      "id": 1595250,
+      "cast_id": 33,
+      "credit_id": "5d83dcb0037264022604db0d"
+    },
+    {
+      "id": 2234003,
+      "cast_id": 39,
+      "credit_id": "5e6aa6332f3b17001940b204"
+    },
+    {
+      "id": 2575383,
+      "cast_id": 75,
+      "credit_id": "60c52d3e7dfda60046b3cdad"
+    },
+    {
+      "id": 2692780,
+      "cast_id": 77,
+      "credit_id": "60c52d8cd04d1a005867aa9e"
+    },
+    {
+      "id": 3283865,
+      "cast_id": 138,
+      "credit_id": "6176b2330d5d850065ef403a"
+    },
+    {
+      "id": 2193492,
+      "cast_id": 79,
+      "credit_id": "60c52dc599259c00791e775d"
+    },
+    {
+      "id": 2592734,
+      "cast_id": 81,
+      "credit_id": "60c52df093828e00286b4684"
+    },
+    {
+      "id": 1813935,
+      "cast_id": 142,
+      "credit_id": "617c30130d5d850065f9adf6"
+    },
+    {
+      "id": 42998,
+      "cast_id": 128,
+      "credit_id": "6162332b89d97f00427c32a2"
+    },
+    {
+      "id": 96851,
+      "cast_id": 139,
+      "credit_id": "617c2e4671f095008b882953"
+    },
+    {
+      "id": 140368,
+      "cast_id": 38,
+      "credit_id": "5e272eda1685da0017df2962"
+    },
+    {
+      "id": 3283863,
+      "cast_id": 137,
+      "credit_id": "6176b220924ce5002d2ebff9"
+    },
+    {
+      "id": 1256066,
+      "cast_id": 143,
+      "credit_id": "617c3049fdc4fa002aa51ec3"
+    },
+    {
+      "id": 2925287,
+      "cast_id": 186,
+      "credit_id": "619bf823be7f3500649c6b68"
+    },
+    {
+      "id": 3093333,
+      "cast_id": 136,
+      "credit_id": "6176b210cf4b8b002c07deb9"
+    },
+    {
+      "id": 1616783,
+      "cast_id": 144,
+      "credit_id": "617c30825294e7002a4a2b07"
+    },
+    {
+      "id": 1953915,
+      "cast_id": 145,
+      "credit_id": "617c30adbe2d49002b26c397"
+    },
+    {
+      "id": 47525,
+      "cast_id": 29,
+      "credit_id": "5d83dc6543494f02394fc3bd"
+    },
+    {
+      "id": 1233854,
+      "cast_id": 82,
+      "credit_id": "60c52e0418864b00588602c5"
+    },
+    {
+      "id": 2061888,
+      "cast_id": 146,
+      "credit_id": "617c3117229ae200649ecf4e"
+    },
+    {
+      "id": 30325,
+      "cast_id": 147,
+      "credit_id": "617c314f0d5d850065f9b18a"
+    },
+    {
+      "id": 3228475,
+      "cast_id": 148,
+      "credit_id": "617c317da097dc002aac2649"
+    },
+    {
+      "id": 1795847,
+      "cast_id": 149,
+      "credit_id": "617c31b0be2d490045bdf784"
+    },
+    {
+      "id": 1756674,
+      "cast_id": 150,
+      "credit_id": "617c31e571f0950042dba468"
+    },
+    {
+      "id": 237455,
+      "cast_id": 127,
+      "credit_id": "615cb7a81d1bf4006280ba05"
+    },
+    {
+      "id": 1232658,
+      "cast_id": 78,
+      "credit_id": "60c52da2c3514c0029ed9291"
+    },
+    {
+      "id": 33186,
+      "cast_id": 151,
+      "credit_id": "617c321fd236e6006505ca65"
+    },
+    {
+      "id": 95129,
+      "cast_id": 73,
+      "credit_id": "60c52d0918864b0029725f08"
+    },
+    {
+      "id": 3289477,
+      "cast_id": 152,
+      "credit_id": "617c3282229ae200649ed2c7"
+    },
+    {
+      "id": 3289480,
+      "cast_id": 156,
+      "credit_id": "617c332d71f0950029170b73"
+    },
+    {
+      "id": 1977051,
+      "cast_id": 153,
+      "credit_id": "617c32a3be2d4900900fd19d"
+    },
+    {
+      "id": 3289479,
+      "cast_id": 154,
+      "credit_id": "617c32e571f0950042dba6c2"
+    },
+    {
+      "id": 3289481,
+      "cast_id": 157,
+      "credit_id": "617c3346d236e6006505cd6d"
+    },
+    {
+      "id": 3289483,
+      "cast_id": 158,
+      "credit_id": "617c33ead388ae008a01fb6e"
+    },
+    {
+      "id": 56098,
+      "cast_id": 28,
+      "credit_id": "5d83dc52614c6d02205c9998"
+    },
+    {
+      "id": 1552398,
+      "cast_id": 27,
+      "credit_id": "5d83dc369638640222352927"
+    },
+    {
+      "id": 97436,
+      "cast_id": 160,
+      "credit_id": "617c3499fdc4fa002aa52a20"
+    },
+    {
+      "id": 2510920,
+      "cast_id": 86,
+      "credit_id": "60c52e805a4690006f6742eb"
+    },
+    {
+      "id": 2445121,
+      "cast_id": 122,
+      "credit_id": "60fbda40d7fbda0079f6b183"
+    },
+    {
+      "id": 937216,
+      "cast_id": 74,
+      "credit_id": "60c52d1d93828e0040b2852d"
+    },
+    {
+      "id": 1860230,
+      "cast_id": 279,
+      "credit_id": "62e0532d9451e70222aabb5d"
+    }
+  ],
+  "directors": [
+    "Edgar Wright"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:59:00.117Z"
+  },
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "release_date_unix": 1634774400000,
+  "keywords": [
+    "london, england",
+    "nightmare",
+    "go-go dancer",
+    "time travel",
+    "nostalgia",
+    "fashion designer",
+    "murder",
+    "soho london",
+    "clairvoyant",
+    "fashion design",
+    "1960s",
+    "mirror",
+    "pub"
+  ],
+  "production_companies": [
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 10338,
+      "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+      "name": "Perfect World Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 131464,
+      "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
+      "name": "Complete Fiction",
+      "origin_country": "GB"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "cast_names": [
+    "Thomasin McKenzie",
+    "Anya Taylor-Joy",
+    "Matt Smith",
+    "Rita Tushingham",
+    "Michael Ajao",
+    "Synnøve Karlsen",
+    "Pauline McLynn",
+    "Terence Stamp",
+    "Diana Rigg",
+    "Aimée Cassettari",
+    "Colin Mace",
+    "Jessie Mei Li",
+    "Kassius Nelson",
+    "Rebecca Harrod",
+    "Alan Mahon",
+    "Connor Calland",
+    "Josh Zaré",
+    "Jacqui-Lee Pryce",
+    "Elizabeth Berrington",
+    "James Phelps",
+    "Oliver Phelps",
+    "Beth Singh",
+    "Paul Brightwell",
+    "Will Rogers",
+    "Terence Frisch",
+    "Celeste Dring",
+    "Jeanie Wishes",
+    "Andrew Bicknell",
+    "Adam Sopp",
+    "Richard Corgan",
+    "Michael Mears",
+    "Tom Hartwell",
+    "Paul Hamilton",
+    "Wayne Cater",
+    "Sam Claflin",
+    "Sam Parks",
+    "Alan Ruscoe",
+    "Margaret Nolan",
+    "Christopher Carrico",
+    "Kent Goldfinch",
+    "Ian Harrod",
+    "Ian Hartley",
+    "Daniel Maggott",
+    "Richard O'Sullivan",
+    "Michael Jibson",
+    "Lisa McGrillis",
+    "Derek Lea",
+    "Lati Gbaja",
+    "Paul Riddell",
+    "Katrina Vasilieva",
+    "Al Roberts"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "6597a1f54ba43f841df56c2f"
+    },
+    {
+      "$oid": "65965925fcd8cc005668c96f"
+    },
+    {
+      "$oid": "6597ca2e4ba43f841df590f8"
+    },
+    {
+      "$oid": "65965848fcd8cc005668c871"
+    },
+    {
+      "$oid": "65954ba331119805a8c8a84b"
+    },
+    {
+      "$oid": "65967da8fcd8cc005668e8a3"
+    },
+    {
+      "$oid": "659552ff31119805a8c8aff6"
+    },
+    {
+      "$oid": "659655fbfcd8cc005668c58f"
+    },
+    {
+      "$oid": "65967c20fcd8cc005668e6a3"
+    },
+    {
+      "$oid": "6596551afcd8cc005668c46a"
+    }
+  ],
+  "tags": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences. london, england nightmare go-go dancer time travel nostalgia fashion designer murder soho london clairvoyant fashion design 1960s mirror pub English Edgar Wright Horror Mystery  Thomasin McKenzie Anya Taylor-Joy"
+},
+{
+  "_id": {
+    "$oid": "6597a1b34ba43f841df56bdb"
+  },
+  "adult": false,
+  "backdrop_path": "/hRPKfuotMeyRiXXGPKmmrVXD5DG.jpg",
+  "genre_ids": [
+    28
+  ],
+  "id": 504148,
+  "original_language": "English",
+  "original_title": "The Serpent",
+  "overview": "Top special agent Lucinda Kavsky works for a secret part of the CIA. She's given a special assignment but then set up by her own agency.",
+  "popularity": 148.462,
+  "poster_path": "/AvMoan3rxCDZpNf59BmAP2G8q5x.jpg",
+  "release_date": "2021-01-28",
+  "title": "The Serpent",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 23,
+  "cast": [
+    {
+      "id": 1293586,
+      "cast_id": 4,
+      "credit_id": "60f5fb2ec7a7e0002d653a54"
+    },
+    {
+      "id": 89375,
+      "cast_id": 5,
+      "credit_id": "60f5fb5ee263bb004742d2dd"
+    },
+    {
+      "id": 172880,
+      "cast_id": 42,
+      "credit_id": "60fa776c99d5c3005fedd257"
+    },
+    {
+      "id": 3168643,
+      "cast_id": 43,
+      "credit_id": "60fa779be24b930048f194b0"
+    },
+    {
+      "id": 94956,
+      "cast_id": 3,
+      "credit_id": "60f5fb0dc439c0005c27c115"
+    },
+    {
+      "id": 3164115,
+      "cast_id": 6,
+      "credit_id": "60f5fb8142d8a5007e232554"
+    },
+    {
+      "id": 1975178,
+      "cast_id": 7,
+      "credit_id": "60f5fbaae263bb002ef601fd"
+    },
+    {
+      "id": 1669471,
+      "cast_id": 8,
+      "credit_id": "60f5fbc9b84cdd007ebfd553"
+    },
+    {
+      "id": 121576,
+      "cast_id": 9,
+      "credit_id": "60f5fbf17b7b4d00455acbfb"
+    },
+    {
+      "id": 2235521,
+      "cast_id": 10,
+      "credit_id": "60f5fd8753866e005dbcf2f6"
+    },
+    {
+      "id": 3164121,
+      "cast_id": 11,
+      "credit_id": "60f5fda08258fc005c1b44c8"
+    },
+    {
+      "id": 1410948,
+      "cast_id": 45,
+      "credit_id": "64795e66caef2d0119bea26b"
+    }
+  ],
+  "directors": [
+    "Gia Skova"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:59:07.777Z"
+  },
+  "genre": [
+    "Action"
+  ],
+  "release_date_unix": 1611792000000,
+  "keywords": [
+    "spy",
+    "special agent"
+  ],
+  "production_companies": [
+    {
+      "id": 13269,
+      "logo_path": null,
+      "name": "Serpent Productions",
+      "origin_country": ""
+    }
+  ],
+  "cast_names": [
+    "Gia Skova",
+    "Travis Aaron Wade",
+    "Nigel Vonas",
+    "Jason Burrill",
+    "Craig Conway",
+    "Alexandra Tebano",
+    "Lin Gothoni",
+    "Jason Scott Jenkins",
+    "Akihiro Kitamura",
+    "Scott Levy",
+    "Mia Lynn Bangunan",
+    "Bryce Draper"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "65965e47fcd8cc005668cf79"
+    },
+    {
+      "$oid": "65965b4bfcd8cc005668cc00"
+    },
+    {
+      "$oid": "6597a9464ba43f841df57574"
+    },
+    {
+      "$oid": "6595436d31119805a8c89e8b"
+    },
+    {
+      "$oid": "65965403fcd8cc005668c2fb"
+    },
+    {
+      "$oid": "6595435e31119805a8c89e77"
+    },
+    {
+      "$oid": "65966028fcd8cc005668d1b3"
+    },
+    {
+      "$oid": "6595495531119805a8c8a5ee"
+    },
+    {
+      "$oid": "6595564a31119805a8c8b468"
+    },
+    {
+      "$oid": "65965342fcd8cc005668c1fd"
+    }
+  ],
+  "tags": "Top special agent Lucinda Kavsky works for a secret part of the CIA. She's given a special assignment but then set up by her own agency. spy special agent English Gia Skova Action  Gia Skova Travis Aaron Wade"
+},
+{
+  "_id": {
+    "$oid": "6597a1b44ba43f841df56bdc"
+  },
+  "adult": false,
+  "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+  "genre_ids": [
+    28,
+    878,
+    53
+  ],
+  "id": 399566,
+  "original_language": "English",
+  "original_title": "Godzilla vs. Kong",
+  "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
+  "popularity": 159.174,
+  "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+  "release_date": "2021-03-24",
+  "title": "Godzilla vs. Kong",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 9276,
+  "cast": [
+    {
+      "id": 28846,
+      "cast_id": 213,
+      "credit_id": "60870ca984448e004124f8b5"
+    },
+    {
+      "id": 1356210,
+      "cast_id": 10,
+      "credit_id": "5b154f5dc3a368533000d528"
+    },
+    {
+      "id": 15556,
+      "cast_id": 29,
+      "credit_id": "5bd9b264925141156c00e024"
+    },
+    {
+      "id": 226366,
+      "cast_id": 25,
+      "credit_id": "5bbeafae9251413d51006008"
+    },
+    {
+      "id": 46364,
+      "cast_id": 32,
+      "credit_id": "5be890c90e0a263c0a031146"
+    },
+    {
+      "id": 1222992,
+      "cast_id": 28,
+      "credit_id": "5bd9b256925141155700e422"
+    },
+    {
+      "id": 1139349,
+      "cast_id": 9,
+      "credit_id": "5b1411640e0a262dca0000ac"
+    },
+    {
+      "id": 129101,
+      "cast_id": 37,
+      "credit_id": "5becd66d9251413cdb009fcc"
+    },
+    {
+      "id": 3497,
+      "cast_id": 11,
+      "credit_id": "5b154f7c0e0a262dea00a185"
+    },
+    {
+      "id": 76961,
+      "cast_id": 26,
+      "credit_id": "5bc82e840e0a26362e01120e"
+    },
+    {
+      "id": 2948491,
+      "cast_id": 60,
+      "credit_id": "600c0d153710970041a1a056"
+    },
+    {
+      "id": 2603,
+      "cast_id": 59,
+      "credit_id": "600c0cedc86b3a003fbe0ca3"
+    },
+    {
+      "id": 1319469,
+      "cast_id": 58,
+      "credit_id": "600c0cd2dd83fa0040909c38"
+    },
+    {
+      "id": 1178193,
+      "cast_id": 57,
+      "credit_id": "600c0cb7813cb600427c006c"
+    },
+    {
+      "id": 172096,
+      "cast_id": 56,
+      "credit_id": "600c0c95c86b3a003fbe0c83"
+    },
+    {
+      "id": 2545317,
+      "cast_id": 72,
+      "credit_id": "601624c0976a23003ca463e2"
+    },
+    {
+      "id": 123540,
+      "cast_id": 73,
+      "credit_id": "601624cebc8657003e6c16e9"
+    },
+    {
+      "id": 1371541,
+      "cast_id": 74,
+      "credit_id": "601624f10816c7003f84c7e6"
+    },
+    {
+      "id": 2272452,
+      "cast_id": 75,
+      "credit_id": "6016250dbf0f63003e0f1642"
+    },
+    {
+      "id": 2881089,
+      "cast_id": 51,
+      "credit_id": "5fca3f64dcf875003f40b2f5"
+    },
+    {
+      "id": 2102960,
+      "cast_id": 54,
+      "credit_id": "600a0673d55c3d00406c465e"
+    },
+    {
+      "id": 2958901,
+      "cast_id": 76,
+      "credit_id": "6016254428723c003dabf6c7"
+    },
+    {
+      "id": 1871679,
+      "cast_id": 77,
+      "credit_id": "601625512d3721003fc35858"
+    },
+    {
+      "id": 1265157,
+      "cast_id": 163,
+      "credit_id": "606a97e512c6040029621ca3"
+    },
+    {
+      "id": 2612144,
+      "cast_id": 164,
+      "credit_id": "606a97efa14bef00792a4109"
+    },
+    {
+      "id": 1696636,
+      "cast_id": 78,
+      "credit_id": "6016256fd96c3c00410ec397"
+    },
+    {
+      "id": 1298704,
+      "cast_id": 79,
+      "credit_id": "6016257cbc8657003d6be201"
+    },
+    {
+      "id": 9568,
+      "cast_id": 55,
+      "credit_id": "600a0685d70594003d1d76af"
+    },
+    {
+      "id": 2958904,
+      "cast_id": 80,
+      "credit_id": "601625a7cb802800411054e7"
+    },
+    {
+      "id": 1692993,
+      "cast_id": 182,
+      "credit_id": "607b87d07a97ab0040a07b2d"
+    },
+    {
+      "id": 2027791,
+      "cast_id": 187,
+      "credit_id": "607b892aab68490029ca5f05"
+    },
+    {
+      "id": 2524631,
+      "cast_id": 188,
+      "credit_id": "607b896a746457005892f336"
+    },
+    {
+      "id": 2265521,
+      "cast_id": 190,
+      "credit_id": "607b89b5ae281100404a8bbb"
+    },
+    {
+      "id": 1486626,
+      "cast_id": 191,
+      "credit_id": "607b89eb29c626007990af2a"
+    },
+    {
+      "id": 2030686,
+      "cast_id": 193,
+      "credit_id": "607b8a26746457005892f4dc"
+    },
+    {
+      "id": 1879911,
+      "cast_id": 195,
+      "credit_id": "607b8a6143d9b10057d93ed8"
+    },
+    {
+      "id": 2965914,
+      "cast_id": 197,
+      "credit_id": "607b8a9cf263ba007094aff8"
+    },
+    {
+      "id": 1244248,
+      "cast_id": 198,
+      "credit_id": "607b8b24aa659e0078dccbde"
+    },
+    {
+      "id": 1840497,
+      "cast_id": 200,
+      "credit_id": "607b8b5a29c626004127d4dc"
+    },
+    {
+      "id": 2269093,
+      "cast_id": 201,
+      "credit_id": "607b8b859408ec0057c12215"
+    },
+    {
+      "id": 2537658,
+      "cast_id": 202,
+      "credit_id": "607b8c329661fc005883cddb"
+    },
+    {
+      "id": 1879895,
+      "cast_id": 204,
+      "credit_id": "607b8c86713ed40058d7677e"
+    },
+    {
+      "id": 1338706,
+      "cast_id": 209,
+      "credit_id": "607b8d162b8a43003fc56f24"
+    },
+    {
+      "id": 2267140,
+      "cast_id": 211,
+      "credit_id": "607b8d55713ed40058d768a5"
+    },
+    {
+      "id": 2969884,
+      "cast_id": 212,
+      "credit_id": "607b8d7a7e34830058aa98fd"
+    },
+    {
+      "id": 1840496,
+      "cast_id": 214,
+      "credit_id": "60c380aaba131b005764a978"
+    }
+  ],
+  "directors": [
+    "Adam Wingard"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:59:08.545Z"
+  },
+  "genre": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "release_date_unix": 1616544000000,
+  "keywords": [
+    "giant monster",
+    "dinosaur",
+    "creature feature",
+    "kaiju",
+    "sign languages",
+    "giant ape",
+    "godzilla",
+    "monsterverse",
+    "robot dinosaur",
+    "king kong"
+  ],
+  "production_companies": [
+    {
+      "id": 923,
+      "logo_path": "/8M99Dkt23MjQMTTWukq4m5XsEuo.png",
+      "name": "Legendary Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "cast_names": [
+    "Alexander Skarsgård",
+    "Millie Bobby Brown",
+    "Rebecca Hall",
+    "Brian Tyree Henry",
+    "Shun Oguri",
+    "Eiza González",
+    "Julian Dennison",
+    "Lance Reddick",
+    "Kyle Chandler",
+    "Demián Bichir",
+    "Kaylee Hottle",
+    "Hakeem Kae-Kazim",
+    "Ronny Chieng",
+    "John Pirruccello",
+    "Chris Chalk",
+    "Conlan Casal",
+    "Brad McMurray",
+    "Benjamin Rigby",
+    "Nick Turello",
+    "Daniel Nelson",
+    "Priscilla Doueihy",
+    "Kei Kudo",
+    "Bradd Buckley",
+    "John Walton",
+    "Daniel Tuiara",
+    "David Castillo",
+    "Kofi Yiadom",
+    "Jim Palmer",
+    "Drew Walton",
+    "Tara Wraith",
+    "Jason Virgil",
+    "Grisel Toledo",
+    "Jason Szabo",
+    "Jason Speer",
+    "Sen Shao",
+    "Scott M. Schewe",
+    "Charles Sans",
+    "Tasneem Roc",
+    "Jon Quested",
+    "Joel Pierce",
+    "Sofia Nolan",
+    "Shawn McBride",
+    "Victoria Liu",
+    "Sonny Le",
+    "Santi Lawson",
+    "Garreth Hadfield"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "65954c3631119805a8c8a8e2"
+    },
+    {
+      "$oid": "65954e6331119805a8c8ab08"
+    },
+    {
+      "$oid": "65965a2afcd8cc005668caa3"
+    },
+    {
+      "$oid": "6595436731119805a8c89e83"
+    },
+    {
+      "$oid": "6597a5064ba43f841df57004"
+    },
+    {
+      "$oid": "65965e02fcd8cc005668cf27"
+    },
+    {
+      "$oid": "65965365fcd8cc005668c22c"
+    },
+    {
+      "$oid": "65955f6731119805a8c8c0d5"
+    },
+    {
+      "$oid": "6597b5434ba43f841df57de5"
+    },
+    {
+      "$oid": "6595434831119805a8c89e5a"
+    }
+  ],
+  "tags": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages. giant monster dinosaur creature feature kaiju sign languages giant ape godzilla monsterverse robot dinosaur king kong English Adam Wingard Action Science Fiction  Alexander Skarsgård Millie Bobby Brown"
+},
+{
+  "_id": {
+    "$oid": "6597a19e4ba43f841df56bc9"
+  },
+  "adult": false,
+  "backdrop_path": "/708m7sERbCF4S4yclm1nK6tHtve.jpg",
+  "genre_ids": [
+    16,
+    35,
+    10751
+  ],
+  "id": 846214,
+  "original_language": "English",
+  "original_title": "The Simpsons: The Good, the Bart, and the Loki",
+  "overview": "Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.",
+  "popularity": 33.073,
+  "poster_path": "/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg",
+  "release_date": "2021-07-07",
+  "title": "The Simpsons: The Good, the Bart, and the Loki",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 639,
+  "cast": [
+    {
+      "id": 91606,
+      "cast_id": 1,
+      "credit_id": "60dc7c5def9d72007e06498c"
+    },
+    {
+      "id": 198,
+      "cast_id": 6,
+      "credit_id": "60e59445b76cbb005d00147b"
+    },
+    {
+      "id": 200,
+      "cast_id": 4,
+      "credit_id": "60dc7e19a12856005eac8ceb"
+    },
+    {
+      "id": 5586,
+      "cast_id": 3,
+      "credit_id": "60dc7e00b458b8007d00974b"
+    },
+    {
+      "id": 34521,
+      "cast_id": 7,
+      "credit_id": "60e594836ee3d70046c33abc"
+    },
+    {
+      "id": 87819,
+      "cast_id": 8,
+      "credit_id": "60e594b5d7cd06007d946e90"
+    }
+  ],
+  "directors": [
+    "David Silverman"
+  ],
+  "type": "movie_2021",
+  "fetch_date": {
+    "$date": "2024-01-05T11:58:46.649Z"
+  },
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "release_date_unix": 1625616000000,
+  "keywords": [
+    "springfield illinois",
+    "mischief"
+  ],
+  "production_companies": [
+    {
+      "id": 18,
+      "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+      "name": "Gracie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 80853,
+      "logo_path": null,
+      "name": "AKOM Production Company",
+      "origin_country": "KR"
+    },
+    {
+      "id": 154887,
+      "logo_path": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png",
+      "name": "20th Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 38679,
+      "logo_path": "/v2y3LuLxYtW36hvLa8IDGQk3Oql.png",
+      "name": "Marvel Television",
+      "origin_country": "US"
+    }
+  ],
+  "cast_names": [
+    "Tom Hiddleston",
+    "Dan Castellaneta",
+    "Nancy Cartwright",
+    "Yeardley Smith",
+    "Maurice LaMarche",
+    "Dawnn Lewis"
+  ],
+  "similar_movies": [
+    {
+      "$oid": "659543ee31119805a8c89f34"
+    },
+    {
+      "$oid": "6596621ffcd8cc005668d3c9"
+    },
+    {
+      "$oid": "6595448d31119805a8c89ffa"
+    },
+    {
+      "$oid": "659544d231119805a8c8a054"
+    },
+    {
+      "$oid": "65955d8d31119805a8c8be47"
+    },
+    {
+      "$oid": "6597ca664ba43f841df5913f"
+    },
+    {
+      "$oid": "65966960fcd8cc005668db67"
+    },
+    {
+      "$oid": "6597b9f44ba43f841df583ad"
+    },
+    {
+      "$oid": "6595441f31119805a8c89f6e"
+    },
+    {
+      "$oid": "6596535bfcd8cc005668c21e"
+    }
+  ],
+  "tags": "Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains. springfield illinois mischief English David Silverman Animation Comedy  Tom Hiddleston Dan Castellaneta"
+}]

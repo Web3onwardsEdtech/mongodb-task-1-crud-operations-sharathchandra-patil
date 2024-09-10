@@ -1,0 +1,21 @@
+{
+  "name": "movie-crud",
+  "version": "1.0.0",
+  "description": "A Node.js project for MongoDB CRUD operations on a movie collection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Node.js",
+    "CRUD",
+    "Movies"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.6.0"
+  }
+}
